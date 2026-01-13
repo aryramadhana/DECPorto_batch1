@@ -1,7 +1,7 @@
 # DEC Project Learn
 
 <p align="center">
-  <img src="assets/the_key.png" alt="The Key" width="400" />
+  <img src="assets/logo.png" alt="The Key" width="400" />
 </p>
 
 ## Project Overview
