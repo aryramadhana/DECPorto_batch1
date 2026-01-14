@@ -1,5 +1,5 @@
 # --- Data ---
 # Abaikan semua file CSV dan Excel di folder 'data/raw'
-data/raw/*.csv
-data/raw/*.xlsx
-data/raw/*.xls
+*.csv
+*.xlsx
+*.xls
