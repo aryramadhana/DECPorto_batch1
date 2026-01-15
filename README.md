@@ -16,7 +16,7 @@ The primary objective is to ensure that students are placed in learning environm
 ├── assets                           # Complete Jupyter notebook with all calculations/
 │   └── logo.jpg                     # company logo         
 ├── analysis_notebook.ipynb          # analysis report        
-├── report in progress.pdf           # analysis report
+├── report in progress.txt           # analysis report
 └── requirements.txt                 # Python dependencies
 ```
 
